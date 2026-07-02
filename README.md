@@ -1,9 +1,7 @@
 # Data-Science-Projects
 # Welcome to my Data Science Portfolio.  
 ## Skills  
-Python 
-Pandas 
-NumPy 
+Python - Pandas - NumPy 
 Matplotlib 
 Scikit-learn 
 SQL 
