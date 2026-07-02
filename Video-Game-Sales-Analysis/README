@@ -1,71 +1,61 @@
-# 🎮 Video Game Sales Analysis
+ 🎮 Video Game Sales Analysis
 
-## 📌 Project Overview
+ Project Overview
 
 This project analyzes the Video Game Sales dataset using Python to discover trends in the gaming industry through data cleaning, exploratory data analysis (EDA), visualization, and machine learning.
-
 The objective was to identify which genres, platforms, publishers, and regions generated the highest sales and build a machine learning model to predict global video game sales.
 
----
 
-## 📂 Dataset
+ 📂 Dataset
 
-**Dataset:** Video Game Sales Dataset (vgsales.csv)
+Dataset: Video Game Sales Dataset (vgsales.csv)
 
 The dataset contains information about video games including:
 
-- Name
-- Platform
-- Year
-- Genre
-- Publisher
-- North America Sales
-- Europe Sales
-- Japan Sales
-- Other Region Sales
-- Global Sales
+ Name
+ Platform
+ Year
+ Genre
+ Publisher
+ North America Sales
+ Europe Sales
+ Japan Sales
+ Other Region Sales
+ Global Sales
 
----
+🛠 Technologies Used
 
-## 🛠 Technologies Used
+ Python
+ Pandas
+ NumPy
+ Matplotlib
+ Scikit-learn
+ Google Colab
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Google Colab
-
----
-
-## 📊 Data Cleaning
+ 📊 Data Cleaning
 
 The following preprocessing steps were performed:
 
-- Removed missing values using `dropna()`
-- Verified duplicate records
-- Explored data types and summary statistics
+ Removed missing values using `dropna()`
+ Verified duplicate records
+ Explored data types and summary statistics
 
----
-
-## 📈 Exploratory Data Analysis
+ 📈 Exploratory Data Analysis
 
 The project includes:
 
-- Global Sales by Genre
-- Global Sales by Platform
-- Top 10 Publishers
-- Global Sales by Year
-- Regional Sales Analysis
-- Top 10 Best-Selling Games
-- Distribution of Global Sales
-- Boxplot for Outlier Detection
-- Correlation Analysis
+ Global Sales by Genre
+ Global Sales by Platform
+ Top 10 Publishers
+ Global Sales by Year
+ Regional Sales Analysis
+ Top 10 Best-Selling Games
+ Distribution of Global Sales
+ Boxplot for Outlier Detection
+ Correlation Analysis
 
----
+🔍 Key Findings
 
-## 🔍 Key Findings
-
-- Action games generated the highest global sales.
-- PS2 was the highest-selling gaming platform.
-- Nintendo achieved the highest
+ Action games generated the highest global sales.
+ PS2 was the highest-selling gaming platform.
+ Nintendo achieved the highest
